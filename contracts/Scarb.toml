@@ -1,6 +1,6 @@
 [package]
 cairo-version = "=2.9.2"
-name = "pixelaw_copy"
+name = "pixelaw"
 version = "0.6.16"
 homepage = "https://github.com/pixelaw/core"
 edition = "2024_07"
