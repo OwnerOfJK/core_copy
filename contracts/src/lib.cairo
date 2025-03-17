@@ -2,7 +2,7 @@ pub mod apps;
 pub mod core;
 
 #[cfg(test)]
-mod tests {
+pub mod tests {
     mod area;
     mod base;
     mod interop;
